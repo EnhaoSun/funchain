@@ -4,12 +4,14 @@ print your function-call chain in console
 ## colorful output
 
 example test code from [7-days-golang/go-web](https://geektutu.com/post/gee-day3.html)
------------
-add route
+
+`ADD Route`
+
 ![image](./funchain1.PNG)
 
 -----------
-http "GET" request
+`HTTP "GET" request`
+
 ![image](./funchain2.PNG)
 
 ## usage
