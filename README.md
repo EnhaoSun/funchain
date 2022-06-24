@@ -1,7 +1,7 @@
 # funchain
 print your function-call chain in console
 
-inspired by: https://github.com/bigwhite/functrace
+funchain added colorful output based on: https://github.com/bigwhite/functrace
 
 ## usage
 add require in go.mod
