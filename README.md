@@ -1,2 +1,2 @@
-# go-trace
-trace your function-call chain in go
+# funchain
+print your function-call chain in console
