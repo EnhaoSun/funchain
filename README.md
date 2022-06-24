@@ -3,7 +3,7 @@ print your function-call chain in console
 
 ## colorful output
 example test code from [7-days-golang/go-web](https://geektutu.com/post/gee-day3.html)
-
+-----------
 add route
 ![image](./funchain1.PNG)
 
