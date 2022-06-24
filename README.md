@@ -4,6 +4,16 @@ print your function-call chain in console
 ## colorful output
 
 example test code from [7-days-golang/go-web](https://geektutu.com/post/gee-day3.html)
+```shell
+# output sample
+# g[01]: created goroutine id
+g[01]:     ->goe.(*router).addRoute
+g[01]:             ->goe.parsePattern
+g[01]:             <-goe.parsePattern
+g[01]:             ->goe.(*node).insert
+g[01]:             <-goe.(*node).insert
+g[01]:     <-goe.(*router).addRoute
+```
 
 `ADD Route`
 
